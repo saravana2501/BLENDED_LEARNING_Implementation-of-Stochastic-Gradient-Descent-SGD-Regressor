@@ -23,7 +23,7 @@ To write a program to implement Stochastic Gradient Descent (SGD) Regressor for 
 ```
 /*
 Program to implement SGD Regressor for linear regression.
-Developed by: Aaliya Fathima
+Developed by: Saravana Kumar S
 RegisterNumber:  212223230001
 */
 # Importing necessary libraries
