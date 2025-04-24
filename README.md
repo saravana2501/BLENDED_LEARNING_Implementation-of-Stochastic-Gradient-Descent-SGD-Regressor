@@ -53,6 +53,7 @@ Fit the model on the training data.
 Evaluate the model performance.
 Make predictions and visualize the results.
 Program:
+```
 /*
 Program to implement SGD Regressor for linear regression.
 Developed by: Saravana Kumar S
@@ -115,6 +116,7 @@ plt.xlabel('Actual Prices')
 plt.ylabel('Predicted Prices')
 plt.title('Actual vs Predicted Car Prices')
 plt.show()
+```
 Output:
 Screenshot 2024-10-06 193048
 
